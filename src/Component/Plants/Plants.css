@@ -1,0 +1,13 @@
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+.bgColor{
+    background-color: rgba(255, 255, 255, 0.815);
+}
+
+.button{
+    background-color: rgb(0, 83, 21);
+    color: white;
+}
